@@ -25,3 +25,10 @@ tmp/
 .directory
 launch.json
 .cmaketools.json
+
+.DS_Store
+*~
+/build/
+/gcc-arm-none-eabi/
+/stlink/
+
